@@ -1,0 +1,3 @@
+# Upper bound is deliberate. The SDK has shipped two major versions since
+# this case was written; baseline.py is verified against 1.x through 3.x.
+openai>=1.40,<4
